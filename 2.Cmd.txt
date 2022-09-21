@@ -1,0 +1,5 @@
+cd %windir%
+cd %userprofile%
+cd %userprofile%\desktop\a\b\c
+cd %tmp%
+

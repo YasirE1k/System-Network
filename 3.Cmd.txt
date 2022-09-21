@@ -1,0 +1,4 @@
+net user
+net user ali 1234
+
+

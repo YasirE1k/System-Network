@@ -1,0 +1,2 @@
+del /?
+del /f /q "C:\Users\yasir\AppData\Local\Google\Chrome\User Data\Default\cookies"

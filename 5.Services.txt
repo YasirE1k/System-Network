@@ -1,0 +1,5 @@
+net start
+net stop wuauserv
+
+sc.exe create TEST binpath= "c:\windows\system32\calc.exe" displayname= HESAP start=auto  
+sc.exe delete TEST

@@ -1,0 +1,22 @@
+dir
+dir /p
+dir /?
+cd "program files"
+tree
+cd "c:\users\ysr2\desktop"
+echo selam > test.txt
+echo.>test.txt
+del text.txt
+systeminfo
+ping 8.8.8.8
+tracert 8.8.8.8
+shutdown
+shutdown -i
+shutdown -s -f -t 60
+shutdown -r -f -t 60
+shutdown -r -t 60
+shutdown -a
+tasklist
+----------------------
+cd /
+
